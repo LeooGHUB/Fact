@@ -2,7 +2,9 @@
 
 Bem-vindo ao FactCheck: Uma solução web inovadora para avaliação e feedback contínuos. 📊📈
 
+
 A aplicação é:
+
 - Essencial para Promover a Transparência e Objetividade nas Avaliações 🌟;
 - Perfeita para Acompanhar o Desenvolvimento de Competências 🛠️;
 - Excelente para Fomentar um Ambiente de Feedback Construtivo 💬;
